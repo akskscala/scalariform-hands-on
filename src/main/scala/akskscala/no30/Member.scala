@@ -1,9 +1,7 @@
 package akskscala.no30
 
-/**
- * あかさかすから
- * 乱れたコメント・・
- */
+/** あかさかすから
+*乱れたコメント・・*/
 class Member(name: String, age: Int) {
 
   def selfIntroduction(): String = {
